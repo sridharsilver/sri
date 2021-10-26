@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId
-Mentor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Chief Integrator,NH001,
+Mentor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Mentor,NH001,
 Adetya Agarwal,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/adetya.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Mentor,NH002,NH001
 Anand Kamat,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/anand.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH003,NH001
 Bhavani Shankar,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/bhavani.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH004,NH001
