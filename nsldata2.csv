@@ -1,5 +1,5 @@
 name,imageUrl,positionName,id,parentId
-Mentor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Mentor,NH001,
+Mentor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Mentor Mentor,NH001,
 Adetya Agarwal,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/adetya.png,Chief Integrator,NH002,NH001
 Anand Kamat,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/anand.png,Chief Integrator,NH003,NH001
 Bhavani Shankar,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/bhavani.png,Chief Integrator,NH004,NH001
