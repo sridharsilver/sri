@@ -1,13 +1,13 @@
-name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId
-Mentor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Mentor,NH001,
-Adetya Agarwal,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/adetya.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH002,NH001
-Anand Kamat,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/anand.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH003,NH001
-Bhavani Shankar,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/bhavani.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH004,NH001
-Christudas Philipose,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/christudas.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH005,NH001
-Prasad Bhamidipati,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/prasad.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH006,NH001
-Raghava Avvari,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/raghava.jpeg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH007,NH001
-Ramesh Anantharamaiah,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/ramesh.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH008,NH001
-Sankar Rao Vema,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/sankar.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Chief Integrator,NH009,NH001
-Sashikanth Tallamraju,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/sashi.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag3",FALSE,Chief Integrator,NH010,NH001
-Srinu Mashetty,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/srinu.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag4",FALSE,Chief Integrator,NH011,NH001
-Venkat Setlur,https://raw.githubusercontent.com/sridharsilver/sri/master/dimg/venkat.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag5",FALSE,Chief Integrator,NH012,NH001
+name,imageUrl,positionName,id,parentId
+Mentor,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Mentor,NH001,
+Adetya Agarwal,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/adetya.png,Chief Integrator,NH002,NH001
+Anand Kamat,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/anand.png,Chief Integrator,NH003,NH001
+Bhavani Shankar,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/bhavani.png,Chief Integrator,NH004,NH001
+Christudas Philipose,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/christudas.png,Chief Integrator,NH005,NH001
+Prasad Bhamidipati,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/prasad.png,Chief Integrator,NH006,NH001
+Raghava Avvari,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/raghava.jpeg,Chief Integrator,NH007,NH001
+Ramesh Anantharamaiah,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/ramesh.png,Chief Integrator,NH008,NH001
+Sankar Rao Vema,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/sankar.png,Chief Integrator,NH009,NH001
+Sashikanth Tallamraju,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/sashi.png,Chief Integrator,NH010,NH001
+Srinu Mashetty,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/srinu.png,Chief Integrator,NH011,NH001
+Venkat Setlur,https://raw.githubusercontent.com/sridharsilver/sri/master/dataImg/venkat.png,Chief Integrator,NH012,NH001
